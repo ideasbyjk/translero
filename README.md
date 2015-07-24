@@ -1,0 +1,2 @@
+# translero
+Nigerian Language Translator
